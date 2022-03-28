@@ -1,0 +1,147 @@
+{
+    "users": [
+        {
+            "username": "Srija",
+            "password": "1234"
+        },
+        {
+            "username": "Sireesha",
+            "password": "Siree"
+        },
+        {
+            "username": "Anusha",
+            "password": "Anusha"
+        },
+        {
+            "username": "Harika",
+            "password": "Hari"
+        },
+        {
+            "username": "Navin",
+            "password": "Narendra"
+        },
+        {
+            "username": "Kittu",
+            "password": "Chow"
+        },
+        {
+            "username": "Sarada",
+            "password": "fun"
+        },
+        {
+            "username": "DADDY",
+            "password": "papa"
+        },
+        {
+            "username": "Sai Krishna",
+            "password": "sai"
+        }
+    ],
+    "food": [
+        {
+            "name": "biryani",
+            "peoplecount": "5",
+            "price": "200",
+            "remark": "heavy ",
+            "location": "hyderabad",
+            "delivery": "home delivery",
+            "img": "f4.jpg",
+            "uploadby": "Srija",
+            "id": 2
+        },
+        {
+            "name": "idly",
+            "peoplecount": "1",
+            "price": "40",
+            "remark": "nothing",
+            "location": "vizag",
+            "delivery": "takeaway",
+            "img": "f10.jpg",
+            "uploadby": "Harika",
+            "id": 3
+        },
+        {
+            "name": "dosa",
+            "peoplecount": "5",
+            "price": "200",
+            "remark": "wwww",
+            "location": "hyderabad",
+            "delivery": "homedelivery",
+            "img": "f8.jpg",
+            "uploadby": "Navin",
+            "id": 4
+        },
+        {
+            "name": "vada",
+            "peoplecount": "1",
+            "price": "30",
+            "remark": "roassted",
+            "location": "hyderabad",
+            "delivery": "homedelivery",
+            "img": "f3.jpeg",
+            "uploadby": "Navin",
+            "id": 4
+        },
+        {
+            "name": "Pasta",
+            "peoplecount": "3",
+            "price": "80",
+            "remark": "Tasty",
+            "location": "Vijayanagaram",
+            "delivery": "takeaway",
+            "img": "f7.jpg",
+            "uploadby": "Sai Krishna",
+            "id": 5
+        }
+    ],
+    "allorders": [
+        {
+            "name": "rice",
+            "peoplecount": "5",
+            "price": "500",
+            "remark": "heavy ",
+            "location": "hyderabad",
+            "delivery": "home delivery",
+            "img": "f4.jpg",
+            "uploadby": "Srija",
+            "id": 2,
+            "placedby": "Sireesha"
+        },
+        {
+            "name": "idly",
+            "peoplecount": "1",
+            "price": "40",
+            "remark": "nothing",
+            "location": "vizag",
+            "delivery": "takeaway",
+            "img": "f10.jpg",
+            "uploadby": "Harika",
+            "id": 3,
+            "placedby": "Sai Krishna"
+        },
+        {
+            "name": "Pasta",
+            "peoplecount": "3",
+            "price": "80",
+            "remark": "Tasty",
+            "location": "Vijayanagaram",
+            "delivery": "takeaway",
+            "img": "f7.jpg",
+            "uploadby": "Sai Krishna",
+            "id": 5,
+            "placedby": "Sai Krishna"
+        },
+        {
+            "name": "Pasta",
+            "peoplecount": "3",
+            "price": "80",
+            "remark": "Tasty",
+            "location": "Vijayanagaram",
+            "delivery": "takeaway",
+            "img": "f7.jpg",
+            "uploadby": "Sai Krishna",
+            "id": 5,
+            "placedby": "Sai Krishna"
+        }
+    ]
+}
